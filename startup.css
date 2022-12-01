@@ -5,7 +5,8 @@ html, body, .cover {
 }
 
 .cover {
-	background: url('img/couchfriends.jpg') top left no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0,0,0,0.6)),
+	url('img/couchfriends.jpg') top left no-repeat;
 	background-size: cover;
 	display: table;
 	width: 100%;
